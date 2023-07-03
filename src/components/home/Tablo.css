@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  /* padding: 10px; */
+  margin-top: 24px;
+  
+}
+.first_box {
+  color: #004DA8;
+  font-size: 48px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.second_box {
+  font-size: 48px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.body {
+  margin-bottom: 150px;
+}
+ .PNG {
+  width: 400px;
+  height: 500px;
+ }

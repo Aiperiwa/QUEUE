@@ -1,0 +1,10 @@
+.long-line {
+  width: 1380px;
+  height: 1px;
+  background: #004DA8;
+  display: flex;
+  justify-content: space-around;
+  border: none;
+
+
+}
