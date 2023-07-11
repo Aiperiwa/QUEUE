@@ -17,9 +17,9 @@ const QueueTable = () => {
     <div className='container'>
 
     <div className='first_box'>
-    <table>
+    <table >
       <thead>
-        <tr>
+        <tr >
           <th>Клиент</th>
           <th></th>
           <th>Окно</th>
